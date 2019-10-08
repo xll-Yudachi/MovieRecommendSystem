@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataLoader" />
+        <module name="businessServer" />
+        <module name="ContentRecommender" />
+        <module name="StreamingRecommender" />
+        <module name="KafkaStream" />
+        <module name="OfflineLFMRecommender" />
+        <module name="StatisticsRecommender" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
